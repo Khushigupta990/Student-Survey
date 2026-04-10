@@ -1,7 +1,3 @@
-Here’s your content rewritten as a clean, GitHub-ready README.md with bold headings, comments, and proper formatting:
-
-
----
 
 📊 Student Survey Data Analysis Project
 
@@ -206,13 +202,3 @@ Create meaningful visualizations
 
 It helps in understanding student behavior through simple and effective data analysis.
 
-
----
-
-If you want, I can also:
-
-Add badges (GitHub style)
-
-Create a sample CSV dataset
-
-Or generate the Python script for this project 👍
